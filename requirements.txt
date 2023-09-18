@@ -1,0 +1,6 @@
+asyncio==3.4.3
+pyaes==1.6.1
+Pyrogram @ git+https://github.com/hakutakaid/pyrogram@2262eb212ab6d3f7829ae40539036019bd63c5f5
+PySocks==1.7.1
+python-dotenv==1.0.0
+TgCrypto==1.2.5
